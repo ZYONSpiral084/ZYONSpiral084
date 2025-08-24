@@ -33,11 +33,7 @@
 </picture>
 
 
-<!-- Header: capsule-render (waving) invertido verticalmente — rápido -->
-<img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=008C8C&height=120&section=header"
-     alt="Cabeçalho decorativo — NYCOLAS ANTONY SALVEGO"
-     style="width:100%;height:auto;max-height:160px;object-fit:cover;transform:scaleY(-1);display:block;" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 
