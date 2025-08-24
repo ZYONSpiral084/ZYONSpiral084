@@ -15,8 +15,6 @@
   
 </div>
 
----
-
 <div align="center">  
 
   <!-- Streak Stats -->
