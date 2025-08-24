@@ -18,11 +18,12 @@
 
 ---
 ### 🐍 Contribution Snake (animação)
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
