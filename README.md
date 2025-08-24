@@ -35,12 +35,3 @@
 
 ---
 
-### 🐍 Contribution Snake (animação)
-Use a imagem abaixo (dark/light) para suportar tema escuro/claro:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;" />
-</picture>
