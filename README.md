@@ -12,23 +12,6 @@
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYONSpiral084&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top languages" />
 </div>
 
----
-
-### 🧾 Sobre mim
-- Nome: Nycolas Antony Salvego  
-- Idade: 19  
-- Curso: Análise e Desenvolvimento de Sistemas — FATEC  
-- Interesses: programação, desenvolvimento de jogos, artes visuais e design.
-
----
-
-### 🛠 Tech / Ferramentas
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
-![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
-![Krita](https://img.shields.io/badge/-Krita-000?style=flat)
-
----
 
 ### 🔥 Atividades recentes
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
