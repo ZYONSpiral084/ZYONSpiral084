@@ -6,14 +6,22 @@
 </p>
 
 <div align="center">  
+
+  <!-- GitHub Stats -->
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=ZYONSpiral084&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=800020&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
+  
+  <!-- Top Languages -->
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYONSpiral084&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top languages" />
+  
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZYONSpiral084&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">  
+
+  <!-- Streak Stats -->
+  <img width="97%" height="180px" src="https://streak-stats.demolab.com?user=ZYONSpiral084&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=800020&fire=800020&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" alt="GitHub Streak" />
+
 </div>
 
 
