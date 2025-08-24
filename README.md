@@ -12,6 +12,23 @@
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYONSpiral084&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top languages" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZYONSpiral084&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ZYONSpiral084&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/pacman-contribution-graph.svg">
+</picture>
+
+
+---
 
 ### 🔥 Atividades recentes
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
