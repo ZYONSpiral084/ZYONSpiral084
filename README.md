@@ -31,16 +31,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
 </picture>
----
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/main/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/main/output/pacman-contribution-graph.svg"
-       style="max-width:100%;height:auto;display:block;margin:0 auto;" />
-</picture>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008C8C&height=120&section=footer"/>
