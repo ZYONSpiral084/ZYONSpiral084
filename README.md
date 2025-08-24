@@ -34,4 +34,9 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
 
 ---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/ZYONSpiral084/output/github-contribution-grid-snake.svg" style="max-width:100%; height:auto;">
+</picture>
 
