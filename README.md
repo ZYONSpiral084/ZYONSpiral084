@@ -23,8 +23,6 @@
 </div>
 
 
----
-
 ### 🔥 Recent Activities
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
 
