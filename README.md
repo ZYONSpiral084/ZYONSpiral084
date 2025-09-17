@@ -24,7 +24,7 @@
 
 
 ### 🔥 Recent Activities
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=008C8C&point=0a855c&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
 
 ### 🐍 Contribution Snake (animation)
 <picture>
