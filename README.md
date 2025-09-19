@@ -60,8 +60,6 @@
   Always striving to become the best version of myself.  
 </blockquote>
 
-<br>
-
 <div align="center">
   <samp>
   </samp>
