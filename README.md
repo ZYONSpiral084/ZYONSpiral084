@@ -27,6 +27,35 @@
 
 </div>
 
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
+</div>
+
 
 ### 🔥 Recent Activities
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
