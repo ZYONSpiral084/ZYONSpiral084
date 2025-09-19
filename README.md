@@ -66,6 +66,7 @@
 
 <div align="center">
 
+<!-- Contact / Socials -->
 <h2 align="center" style="color:#00A693;">📡 Contact / Socials</h2>
 
 <p align="center">
