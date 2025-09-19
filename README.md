@@ -66,12 +66,12 @@
 
 <div align="center">
 
-<!-- Contact / Socials -->
-<h3 align="center" style="color:#00A693;">📡 Contact / Socials</h3>
-
 <p align="center">
   <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="4" alt="green-divider" />
 </p>
+
+<!-- Contact / Socials -->
+<h3 align="center" style="color:#00A693;">📡 Contact / Socials</h3>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nycolasantonysalvego)
