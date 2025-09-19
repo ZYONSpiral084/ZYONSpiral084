@@ -1,7 +1,7 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008C8C&height=120&section=header"/>
 
-<img align="right" height="200" src="https://imgur.com/hKF0saz.gif" />
+<img align="center" height="200" src="https://imgur.com/hKF0saz.gif" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=66CCCC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+I%27M+NYCOLAS+ANTONY+SALVEGO;I+STUDY+ANALYSIS+AND+SYSTEMS+DEVELOPMENT+AT+FATEC;WELCOME+TO+MY+PROFILE+MADAM+AND+SIR+%F0%9F%98%8A" alt="typing"/>
