@@ -61,18 +61,15 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="80%" height="4" alt="green-divider" />
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="4" alt="green-divider" />
 </p>
 
 <div align="center">
-  <samp>
-  </samp>
-
 
 ## Contact / Socials
 
 <p align="center">
-  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="80%" height="4" alt="green-divider" />
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="4" alt="green-divider" />
 </p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
