@@ -67,7 +67,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="green-divider" />
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="red-divider" />
 </p>
 
 <!-- Contact / Socials -->
