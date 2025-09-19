@@ -66,7 +66,7 @@
 
 <div align="center">
 
-## Contact / Socials
+<h2 align="center" style="color:#00A693;">📡 Contact / Socials</h2>
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="4" alt="green-divider" />
