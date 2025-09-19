@@ -25,6 +25,17 @@
   <!-- Streak Stats -->
   <img width="97%" height="180px" src="https://streak-stats.demolab.com?user=ZYONSpiral084&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=800020&fire=800020&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9" alt="GitHub Streak" />
 
+
+### 🔥 Recent Activities
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
+
+### 🐍 Contribution Snake (animation)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <details align="center">  
@@ -55,17 +66,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=7F1734)](https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784/)
   
 </div>
-
-
-### 🔥 Recent Activities
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZYONSpiral084&bg_color=000000&color=98FB98&line=008C8C&point=7F1734&area=true&hide_border=true)](https://github.com/ZYONSpiral084)
-
-### 🐍 Contribution Snake (animation)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ZYONSpiral084/Snake_Github/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F1734&height=120&section=footer"/>
