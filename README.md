@@ -62,7 +62,14 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-zerodeath11784-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839177000446722088)
+  <p align="center">
+  <a href="https://discord.com/users/839177000446722088" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/discord-icon.png" width="36" height="36" />
+    &nbsp;
+    <strong>ZYON KAISER</strong> — <small>zerodeath11784</small>
+  </a>
+</p>
+
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784/)
   
 </div>
