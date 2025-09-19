@@ -49,6 +49,17 @@
 
 ##
 
+<!-- About Me -->
+<h3 align="center" style="color:#00A693;">
+  🌌 Nycolas Antony Salvego 🌌
+</h3>
+
+<p align="center" style="color:#00A693; font-size:16px;">
+  A curious mind blending <b>Technology</b> & <b>Visual Arts</b> —  
+  passionate about <b>coding</b>, <b>game design</b>, and <b>creativity</b>  
+  in every form. Always striving to become the best version of myself.  
+</p>
+
 <br>
 
 <div align="center">
