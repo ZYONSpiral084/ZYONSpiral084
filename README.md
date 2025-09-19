@@ -65,7 +65,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nycolasantonysalvego)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zyon084)
-[![Discord](https://img.shields.io/badge/Discord-ZYON%20KAISER-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839177000446722088)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839177000446722088)
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvegonycolas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784)
   
