@@ -60,8 +60,9 @@
   Always striving to become the best version of myself.  
 </blockquote>
 
-<samp>
-  </samp>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="60%" alt="divider" />
+</p>
 
 <div align="center">
   <samp>
