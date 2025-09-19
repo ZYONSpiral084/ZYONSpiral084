@@ -61,26 +61,25 @@
   <br>
 
 <div align="center">
-  <p>
-    <a href="mailto:kamillymedino2@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/kamyzmedino/?next=%2F" target="_blank" rel="noopener noreferrer">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.com/users/839177000446722088" target="_blank" rel="noopener noreferrer">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-ZYON%20KAISER-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    &nbsp;&nbsp;
-    <strong>ZYON KAISER</strong> · <small>zerodeath11784</small>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784/" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff"/>
-    </a>
-  </p>
+  <a href="mailto:kamillymedino2@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/gmail-icon.png" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kamyzmedino/?next=%2F" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/instagram-icon.png" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/839177000446722088" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/discord-icon.png" width="28" height="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <strong>ZYON KAISER</strong> · <small>zerodeath11784</small>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/linkedin-icon.png" width="28" height="28"/>
+  </a>
 </div>
+
   
 </div>
 
