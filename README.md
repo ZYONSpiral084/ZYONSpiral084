@@ -61,16 +61,13 @@
 </blockquote>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="80%" height="4" alt="green-divider" />
 </p>
 
 <div align="center">
   <samp>
   </samp>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-</p>
 
 ## Contact / Socials
 
