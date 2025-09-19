@@ -60,26 +60,10 @@
   <br>
   <br>
 
-<div align="center">
-  <a href="mailto:kamillymedino2@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/gmail-icon.png" width="28" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kamyzmedino/?next=%2F" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/instagram-icon.png" width="28" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/839177000446722088" target="_blank" rel="noopener noreferrer">
-    <img alt="Discord" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/discord-icon.png" width="28" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <strong>ZYON KAISER</strong> · <small>zerodeath11784</small>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://github.com/ZYONSpiral084/ZYONSpiral084/raw/main/assets/linkedin-icon.png" width="28" height="28"/>
-  </a>
-</div>
-
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
 </div>
 
