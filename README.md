@@ -71,6 +71,10 @@
 
 ## Contact / Socials
 
+<p align="center">
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="80%" height="4" alt="green-divider" />
+</p>
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nycolasantonysalvego)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zyon084)
