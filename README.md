@@ -16,7 +16,7 @@
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=ZYONSpiral084&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=800020&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
   
   <!-- Top Languages -->
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYONSpiral084&layout=compact&langs_count=12&show_icons=true&hide_border=true&bg_color=000000&title_color=00bfbf&text_color=008C8C&icon_color=008C8C" width="48%" height="180px" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYONSpiral084&layout=compact&langs_count=12&show_icons=true&hide_border=true&bg_color=000000&title_color=00bfbf&text_color=00bfbf&icon_color=008C8C" width="48%" height="180px" />
   
 </div>
 
