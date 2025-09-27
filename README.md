@@ -10,6 +10,41 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=66CCCC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!+I%27M+NYCOLAS+ANTONY+SALVEGO;I+STUDY+ANALYSIS+AND+SYSTEMS+DEVELOPMENT+AT+FATEC;WELCOME+TO+MY+PROFILE+MADAM+AND+SIR+%F0%9F%98%8A" alt="typing"/>
 </p>
 
+<!-- About Me -->
+<h3 align="center" style="color:#00A693;">
+  🌌 ABOUT ME 🌌
+</h3>
+
+<blockquote align="center" style="color:#008c8c; font-size:16px;">
+  A curious mind blending <b>Technology</b> & <b>Visual Arts</b> —  
+  passionate about <b>coding</b>, <b>game design</b>, and <b>creativity</b>  
+  in every form. Living with <b>ADHD</b> and <b>GAD</b>, I turn challenges  
+  into fuel for focus, resilience, and originality.  
+  Always striving to become the best version of myself.  
+</blockquote>
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="green-divider" />
+</p>
+
+<div align="center">
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="green-divider" />
+</p>
+
+<!-- Contact / Socials -->
+<h3 align="center" style="color:#00A693;">📡 Contact / Socials</h3>
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nycolasantonysalvego)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zyon084)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839177000446722088)
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvegonycolas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784)
+  
+</div>
+
 <div align="center">  
 
   <!-- GitHub Stats -->
@@ -47,40 +82,7 @@
   
 <br>
 
-<!-- About Me -->
-<h3 align="center" style="color:#00A693;">
-  🌌 ABOUT ME 🌌
-</h3>
 
-<blockquote align="center" style="color:#008c8c; font-size:16px;">
-  A curious mind blending <b>Technology</b> & <b>Visual Arts</b> —  
-  passionate about <b>coding</b>, <b>game design</b>, and <b>creativity</b>  
-  in every form. Living with <b>ADHD</b> and <b>GAD</b>, I turn challenges  
-  into fuel for focus, resilience, and originality.  
-  Always striving to become the best version of myself.  
-</blockquote>
-
-<p align="center">
-  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="green-divider" />
-</p>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://singlecolorimage.com/get/00A693/1200x4" width="100%" height="2" alt="green-divider" />
-</p>
-
-<!-- Contact / Socials -->
-<h3 align="center" style="color:#00A693;">📡 Contact / Socials</h3>
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ZYON084)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nycolasantonysalvego)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zyon084)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839177000446722088)
-[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvegonycolas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-antony-salvego-zyon11784)
-  
-</div>
 
 <br>
 
