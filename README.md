@@ -73,20 +73,5 @@
 
 </div>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
-
-
-
-<br>
-
-</details>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F1734&height=120&section=footer"/>
